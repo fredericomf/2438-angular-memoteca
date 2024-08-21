@@ -12,6 +12,17 @@ npm uninstall -g @angular/cli
 sudo npm install -g @angular/cli@14.0.0
 ```
 
+### Instale o JSON Server:
+```
+npm install -g json-server 
+```
+
+### Rodar o backend em outro terminal:
+``` 
+cd backend
+npm start
+```
+
 ### Nota:
 Se você estiver no Linux é possível que a instalação do Angular Cli quebre o terminal, fazendo com que ele não carregue corretamente. Caso isso aconteça:
 
